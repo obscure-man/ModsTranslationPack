@@ -30,6 +30,8 @@
   "item.creeperoverhaul.snowy_creeper_spawn_egg": "雪地苦力怕 生怪蛋",
   "entity.creeperoverhaul.ocean_creeper": "海洋苦力怕",
   "item.creeperoverhaul.ocean_creeper_spawn_egg": "海洋苦力怕 生怪蛋",
+  "entity.creeperoverhaul.birch_creeper": "樺木苦力怕",
+  "item.creeperoverhaul.birch_creeper_spawn_egg": "樺木苦力怕 生怪蛋",
   "block.creeperoverhaul.tiny_cactus": "小型仙人掌",
   "block.creeperoverhaul.potted_tiny_cactus": "小型仙人掌盆栽",
 
@@ -56,5 +58,9 @@
   "subtitles.creeperoverhaul.entity.ocean.creeper.death": "苦力怕死亡",
   "subtitles.creeperoverhaul.entity.ocean.creeper.hurt": "苦力怕受傷",
   "subtitles.creeperoverhaul.entity.ocean.creeper.inflate": "海洋苦力怕充氣",
-  "subtitles.creeperoverhaul.entity.ocean.creeper.deflate": "海洋苦力怕消氣"
+  "subtitles.creeperoverhaul.entity.ocean.creeper.deflate": "海洋苦力怕消氣",
+
+  "gui.creeperoverhaul.cosmetics": "裝飾品",
+  "gui.creeperoverhaul.cosmetics.login": "登入《苦力怕翻修》",
+  "gui.creeperoverhaul.cosmetics.preview_in_game": "必須處於遊戲中才能預覽裝飾品"
 }
