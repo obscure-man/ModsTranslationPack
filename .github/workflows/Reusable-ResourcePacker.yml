@@ -149,7 +149,7 @@ jobs:
             force_include = true
             ['assets/appflux/ae2guide/_zh_tw/pic/*?.png']
             force_include = true
-            ['assets/alexscaves/books/zh_tw/primordial_caves/*?.txt']
+            ['assets/alexscaves/books/zh_tw/**/*?.txt']
             force_include = true
             ['assets/alexscaves/books/zh_tw/root.txt']
             force_include = true
