@@ -17,14 +17,14 @@
   "item.create_shimmer.shimmer_bucket": "微光桶",
   "item.create_shimmer.shimmer_reagent": "微光試劑",
   "item.create_shimmer.thorn_flour": "荊棘麵粉",
-  "item.create_shimmer.charm_of_shimmer_1": "微光符咒 I",
-  "item.create_shimmer.charm_of_shimmer_2": "微光符咒 II",
-  "item.create_shimmer.charm_of_shimmer_base": "微光符咒基底",
+  "item.create_shimmer.charm_of_shimmer_1": "微光護符 I",
+  "item.create_shimmer.charm_of_shimmer_2": "微光護符 II",
+  "item.create_shimmer.charm_of_shimmer_base": "微光護符基底",
   "item.create_shimmer.shimmer_sword": "微光劍",
   "item.create_shimmer.shimmer_axe": "微光斧",
   "item.create_shimmer.shimmer_pickaxe": "微光鎬",
   "item.create_shimmer.shimmer_shovel": "微光鏟",
-  "itemGroup.create_shimmer.base": "機械動力｜微光",
+  "itemGroup.create_shimmer.base": "動力機械｜微光",
   "recipe.create_dragons_plus.fan_ending": "批次轉換",
   "createshimmer.recipe.fan_transmutation": "批次轉換",
   "createshimmer.recipe.fan_glooming": "批次暮光",
@@ -46,7 +46,7 @@
   "block.create_shimmer.magic_soil.tooltip.condition2": "當土壤被微光濕潤時：",
   "block.create_shimmer.magic_soil.tooltip.behaviour2": "土壤發出微弱的光，並顯著加速任何種在土壤上的作物。",
 
-  "item_group.create_shimmer.main": "機械動力｜微光",
+  "item_group.create_shimmer.main": "動力機械｜微光",
 
   "tooltip.create_shimmer.shimmer_effect": "增加攻擊速度、挖掘速度和傷害",
   "tooltip.create_shimmer.shimmer_warning": "警告：可能損害視力並變得脆弱"
